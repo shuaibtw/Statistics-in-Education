@@ -9,8 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Introduction
-
-test3
 In this project, we will investigate ...
 ```{r cars}
 summary(cars)
